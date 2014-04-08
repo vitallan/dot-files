@@ -6,6 +6,7 @@ just run
 
 sudo sh install.sh
 
-to download the vim plugins that are git repos
+sit back and wait for the downloads
 
 ps: Still working on this ~~/o/
+TODO: install solarized, keyboard shortcuts and tests :)
