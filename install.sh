@@ -4,7 +4,7 @@ sudo apt-get -y purge openjdk-6-jdk:amd64 openjdk-6-jre:amd64 openjdk-6-jre-head
 
 sudo apt-get -y install openjdk-7-jdk:amd64 openjdk-7-jre:amd64 openjdk-7-jre-headless:amd64 openjdk-7-jre-lib maven 
 
-sudo apt-get -y install git python ruby php
+sudo apt-get -y install python ruby php5
 
 sudo apt-get -y install python-pip virtualenvwrapper
 
