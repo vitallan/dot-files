@@ -12,19 +12,14 @@ sudo apt-get -y install mysql-server mysql-client apache2
 
 sudo apt-get -y install tmux vim xclip
 
-mkdir Projects
-
-cd Projects
-
-git clone https://github.com/vitallan/dot-files.git
-
-cd dot-files
-
-git submodules init
-git submodules update
+git submodule init
+git submodule update
 
 sudo cp -r .vim ~/.
 sudo cp .tmux.conf ~/.
 sudo cp .vimrc ~/.
 
---falta solarized, atalhos de teclado e dot-files com submodulos
+git config --global user.name "Allan Vital"
+git config --global user.email allan.vital@gmail.com
+
+--falta solarized, atalhos de teclado 
