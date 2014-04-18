@@ -22,4 +22,6 @@ sudo cp .vimrc ~/.
 git config --global user.name "Allan Vital"
 git config --global user.email allan.vital@gmail.com
 
---falta solarized, atalhos de teclado 
+sh gnome-terminal-colors-solarized/set_dark.sh 
+
+--falta atalhos de teclado 
