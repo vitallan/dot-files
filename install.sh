@@ -23,5 +23,4 @@ git config --global user.name "Allan Vital"
 git config --global user.email allan.vital@gmail.com
 
 sh gnome-terminal-colors-solarized/set_dark.sh 
-
 --falta atalhos de teclado 
