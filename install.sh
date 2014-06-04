@@ -12,6 +12,8 @@ sudo apt-get -y install mysql-server mysql-client apache2
 
 sudo apt-get -y install tmux vim xclip
 
+sudo apt-get -y install python-dev libxml2 libxml2-dev libxslt-dev
+
 git submodule init
 git submodule update
 
